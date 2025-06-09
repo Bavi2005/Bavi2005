@@ -9,6 +9,3 @@
 
 <!-- Visitor badge -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Bavi2005&color=blue)
-
-<!-- Snake animation -->
-![snake gif](https://github.com/Bavi2005/Bavi2005/blob/output/github-contribution-grid-snake.svg)
