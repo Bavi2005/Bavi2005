@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Bavi
 
 <!-- GitHub stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourBavi2005&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bavi2005&layout=compact)
 
 <!-- GitHub trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
+![trophy](https://github-profile-trophy.vercel.app/?username=Bavi2005)
 
 <!-- Visitor badge -->
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Bavi2005&color=blue)
 
 <!-- Snake animation -->
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Bavi2005/Bavi2005/blob/output/github-contribution-grid-snake.svg)
