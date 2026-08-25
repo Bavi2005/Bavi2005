@@ -1,91 +1,120 @@
-<!-- ⚡ FUTURISTIC RETRO-TECHNO PROFILE FOR BAVI ⚡ -->
+<!-- BAVITHRAN ALAGAN — SOFTWARE ENGINEER PROFILE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFF6,50:7B2FFF,100:FF2E97&height=230&section=header&text=BAVI%27S%20CYBERSPACE&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20Tech%20Explorer&descSize=17&descAlignY=74" alt="Bavi's Cyberspace Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFF6,50:7B2FFF,100:FF2E97&height=200&section=header&text=BAVITHRAN%20ALAGAN&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=%3E%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Systems%20Programming&descSize=15&descAlignY=72" alt="Bavithran Alagan" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=1000&color=00FFF6&center=true&vCenter=true&width=560&lines=Welcome+to+Bavi's+Digital+Realm...;Coding+in+the+Neon+Matrix;Fortifying+the+Future+with+Cybersecurity;Building+Tech+that+Never+Sleeps..." alt="Typing Animation" />
-</p>
+# Hi, I'm Bavi 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bavi2005&label=PROFILE+VIEWS&color=8A63D2&style=for-the-badge" alt="Profile Views" />
-</p>
+**🥇 HackLab.20 Winner · Full-Stack Developer · 42 Kuala Lumpur**
 
----
+I'm a software engineering cadet at **42 Kuala Lumpur** building full-stack products with **TypeScript, React, and Node.js** — on top of a C and systems-programming foundation from reimplementing Unix fundamentals from scratch. I took **1st place at HackLab.20 2026**, leading backend and AI integration for an explainable-AI platform.
 
-### 🖥️ SYSTEM BOOT SEQUENCE
-
-```bash
-> bavi@cyberspace:~$ ./system.log --status
-
-[OK]      Reactor core operational.....................
-[OK]      Neural link established → GitHub mainframe...
-[RUNNING] Cybersecurity shields ACTIVE 🔒..............
-[LOADING] Innovation protocols v2.5.1..................
-[READY]   Welcome, traveler. Explore responsibly. ⚡
-```
+🇲🇾 Malaysia · Open to software engineering internships
 
 ---
 
-### 👾 ABOUT ME
+## 🏆 HackLab.20 — 1st Place (2026)
 
-```yaml
-name: Bavi
-role: Developer // Cybersecurity Enthusiast
-current_mission: Building cool things & breaking (my own) things safely
-currently_learning: [Cybersecurity, Systems Programming]
-fun_fact: Runs on coffee, curiosity, and neon light ☕⚡
-```
+Won **1st place** at HackLab.20 2026 with **[TriShade-Ai](https://github.com/zeposs/TriShade-Ai)** — a universal explainable-AI (XAI) decision engine.
 
----
+**The problem:** AI systems produce decisions nobody can inspect, which makes them hard to trust in real workflows.
 
-### 🛠️ TECH ARSENAL
+**What we built:** a platform where a locally-hosted LLM evaluates decisions and returns structured explanations — risk scores, approval probabilities, critical factors, and counterfactuals — grounded in an organization's own policies through a RAG-style policy-memory system.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,html,css,bash,linux,git,github,docker,mysql,mongodb,vscode,figma&perline=9" alt="Tech Stack" />
-  </a>
-</p>
+**My contribution:** led the **backend and AI integration** — the agent service, the explanation-generation pipeline, and the policy/memory layer.
+
+`TypeScript` `Python` `Ollama` `Mistral 7B` `RAG` `REST API`
 
 ---
 
-### 📊 LIVE TELEMETRY
+## 🚀 Featured Projects
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bavi2005&theme=synthwave" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bavi2005&theme=synthwave" alt="Productive Time" />
-</p>
+### 🥇 [TriShade-Ai](https://github.com/zeposs/TriShade-Ai)
+Explainable-AI decision engine — the HackLab.20 winning build. Runs a local Mistral 7B model, explains every recommendation, and learns organizational policies from uploaded documents.
+<br>`TypeScript` `Python` `Local LLM` `RAG` `Policy Memory`
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bavi2005&theme=synthwave" alt="Repos per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bavi2005&theme=synthwave" alt="Most Committed Languages" />
-</p>
+### 🕵️ [Murder Mansion — ft_transcendence](https://github.com/Bavi2005/murder-mystery-full-stack-game)
+Real-time multiplayer murder-mystery game built for 42's `ft_transcendence`: players join live rooms, move around a mansion board, gather clues, vote, and accuse — all synchronized over WebSockets.
+<br>`React 18` `TypeScript` `Node.js` `Express` `Socket.IO` `Prisma` `PostgreSQL`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bavi2005&hide_border=true&background=121011&stroke=00FFF6&ring=00FFF6&fire=FF2E97&currStreakLabel=00FFF6&currStreakNum=FFFFFF&sideLabels=8A63D2&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-</p>
+### 🏫 [BJ School Management System](https://github.com/Bavi2005/BJ-School_Management_system)
+Rebuilt a legacy PHP school system into a modern TypeScript monorepo — role-based dashboards for admins, teachers, students and parents, AI-powered insights, Google Calendar integration, and real-time notifications.
+<br>`TypeScript` `Node.js` `AI Integration` `Docker` `Monorepo`
 
----
+### 💼 [JobAssist](https://github.com/Bavi2005/jobassist)
+Web application focused on streamlining the job-search and application workflow.
+<br>`JavaScript` `HTML` `CSS`
 
-### 🐍 CONTRIBUTION SNAKE — IT EATS COMMITS
+<details>
+<summary><b>⚙️ 42 Kuala Lumpur core projects</b></summary>
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bavi2005/Bavi2005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bavi2005/Bavi2005/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Bavi2005/Bavi2005/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+| Project | What it demonstrates |
+|---|---|
+| [Libft](https://github.com/Bavi2005/42-Libft) | Reimplementing libc from scratch in C |
+| [get_next_line](https://github.com/Bavi2005/get_next_line) | File descriptors, buffers, reading files correctly |
+| [ft_printf](https://github.com/Bavi2005/Printf) | Variadic functions, format-parsing edge cases |
+| [push_swap](https://github.com/Bavi2005/push_swap) | Algorithm design and sorting under strict operation limits |
+| [so_long](https://github.com/Bavi2005/so_long) | Graphics, event loops, map parsing and validation |
+| [minitalk](https://github.com/Bavi2005/minitalk) | UNIX signals — client/server communication without sockets |
+| [philosophers](https://github.com/Bavi2005/philo) | Threads, mutexes, race conditions, deadlock avoidance |
+| [Inception](https://github.com/Bavi2005/Inception) | Building infrastructure from scratch with Docker |
 
----
-
-### 📡 TRANSMISSION CHANNELS
-
-<p align="center">
-  <a href="https://github.com/Bavi2005"><img src="https://img.shields.io/badge/GitHub-00FFF6?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/Bavi2005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:bavithrran@gmail.com"><img src="https://img.shields.io/badge/bavithrran%40gmail.com-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+</details>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF6,50:7B2FFF,100:FF2E97&height=130&section=footer" alt="Footer Wave" />
+## 🛠 Technical Skills
+
+| | |
+|---|---|
+| **Languages** | C · C++ · TypeScript · JavaScript · Python · PHP |
+| **Frontend** | React · Tailwind CSS · HTML · CSS |
+| **Backend** | Node.js · Express · REST APIs · WebSockets |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **Systems & DevOps** | Linux · Bash · Git · Docker |
+| **AI Engineering** | LLM application development · RAG · Local models (Ollama) |
+
+---
+
+## 🎓 42 Kuala Lumpur
+
+Progressing through 42's peer-learning curriculum, where every project is built from a blank file in C — no frameworks, no shortcuts.
+
+This gave me hands-on foundations in **memory management, pointers, file descriptors, processes and signals, threading, algorithm optimization, and systematic debugging** — plus the discipline of code that must pass strict automated evaluation.
+
+The point isn't the project list — it's that I understand what happens *underneath* the abstractions I use every day.
+
+---
+
+## 🔨 Currently Building
+
+- Full-stack TypeScript applications — real-time features, auth, and clean APIs
+- AI-powered products: local LLM agents, RAG pipelines, explainability
+- Backend systems and tooling that automate boring workflows
+
+## 📚 Currently Learning
+
+- Cybersecurity fundamentals and secure software development
+- Deeper systems programming beyond the 42 core
+- AI engineering patterns — retrieval, evaluation, and agent design
+
+---
+
+## ⚙️ How I Work
+
+- **Fundamentals first** — I want to understand the layer below whatever I'm using
+- **Learn by building** — every concept gets turned into a working project
+- **Debug systematically** — isolate, reproduce, verify; no random guessing
+- **Full spectrum** — comfortable moving between frontend, backend, and systems layers
+
+---
+
+## 🌐 Connect
+
+<a href="https://bavi2005.github.io/"><img src="https://img.shields.io/badge/Portfolio-bavi2005.github.io-0D1117?style=flat-square&logo=googlechrome&logoColor=00FFF6" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/bavithran-alagan-38b956280/"><img src="https://img.shields.io/badge/LinkedIn-bavithran--alagan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bavithrran@gmail.com"><img src="https://img.shields.io/badge/Email-bavithrran%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF6,50:7B2FFF,100:FF2E97&height=100&section=footer" alt="" />
